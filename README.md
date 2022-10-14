@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @naimtsm, a certified Junior Data Scientist
-- 👀 I’m interested in becoming a data scientist
-- 🌱 I’m currently learning SQL Essentials, Python for Analytics & Descriptive Statistics
+- 👋 I'm a graduate of Electrical Engineering from Universiti Teknologi MARA
+     and a certified Junior Data Scientist by The Center of Applied Data Science (CADS)
+- 👀 I’m interested in becoming a data analyst/scientist
+- 🌱 I’m good at Python, Tableau, and building supervised machine learning model
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach reach me at Linkedin (https://www.linkedin.com/in/hafiznaim/)
 
